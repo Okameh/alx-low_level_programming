@@ -16,7 +16,7 @@ int main(void)
 		{
 			printf("FizzBuzz");
 		}
-		else4 if (n % 3 == 0)
+		else if (n % 3 == 0)
 		{
 			printf("Fizz");
 		}
