@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include "dog.h"
 /**
  * free_dog - frees money allocated for a struct dog
  * @d: struct dog to free
