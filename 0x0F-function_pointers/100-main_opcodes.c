@@ -7,10 +7,11 @@
  *
  * Return: Always 0 (Success)
  */
- int main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int bytes, i;
 	char *arr;
+
 	if (argc != 2)
 	{
 		printf("Error\n");
